@@ -33,6 +33,13 @@ As a result, I created a web application in which I attempted to provide all pro
 </div>
 <br>
 <details>
+<summary> Azure Static Web Apps Project View :</summary>
+<br>
+<img width="100%" src="images/azure.png"/>
+</details>
+
+
+<details>
 <summary> Full Website View :</summary>
 <br>
 <img width="100%" src="images/full-website.png"/>
