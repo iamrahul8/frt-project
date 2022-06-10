@@ -16,6 +16,6 @@ As a result, I created a web application in which I attempted to provide all pro
 <img width="100%" src="images/homepage.png"/>
 <br>
 <div align=>
-<img width="49%" src="images/blog1.png"/> <img width="49%" src="images/shop1.png"/>
+<img width="49%" src="images/shop1.png"/>  <img width="49%" src="images/blog1.png"/>
 <br>
 </div>
