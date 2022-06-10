@@ -12,7 +12,7 @@ I designed a fashion store website named "Handii" . It aids the buyer in locatin
 
 As a result, I created a web application in which I attempted to provide all product information. My project assists customers in receiving things at their doorstep as well as providing genuine stuff.
 
-## Project Link: 
+## Project Demo URL: 
 https://thankful-ground-0c7824810.1.azurestaticapps.net
 
 
