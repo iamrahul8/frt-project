@@ -1,4 +1,4 @@
-<h1 align="center">Handii : Online Fashion & Lifestyle Store for Handbags <a href="https://thankful-ground-0c7824810.1.azurestaticapps.net" > ↗</a> </h1>
+<h1 align="center">Handii : Online Fashion & Lifestyle Store for Handbags</h1>
 
 
 ## Problem Statement :
@@ -48,3 +48,6 @@ https://thankful-ground-0c7824810.1.azurestaticapps.net
 <br>
 <img width="100%" src="images/full-website.png"/>
 </details>
+
+<div align=center>
+<img align="center" src="images/made-with-love-future-ready-talent-internship.svg" /></div>
