@@ -35,5 +35,5 @@ As a result, I created a web application in which I attempted to provide all pro
 <details>
 <summary> Full Website View :</summary>
 <br>
-<img width="100%" src=""/>
+<img width="100%" src="images/full-website.png"/>
 </details>
