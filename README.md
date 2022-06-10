@@ -1,7 +1,7 @@
-<h1 align="center"> Handii : Online Store for Handbags </h1>
+<h1 align="center">Handii : Online Fashion & Lifestyle Store for Handbags <a href="https://thankful-ground-0c7824810.1.azurestaticapps.net" > ↗</a> </h1>
 
 
-
+## Problem Statement :
 A fashion store website that assists customers in locating low-cost, high-quality items (particularly handbags) to meet their specific demands.
 
 
