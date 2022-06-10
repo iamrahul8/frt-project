@@ -13,9 +13,9 @@ I designed a fashion store website named "Handii" . It aids the buyer in locatin
 
 As a result, I created a web application in which I attempted to provide all product information. My project assists customers in receiving things at their doorstep as well as providing genuine stuff.
 
-<img width="100%" src=""/>
+<img width="100%" src="images/homepage.png"/>
 <br>
 <div align=>
-<img width="49%" src=""/> <img width="49%" src=""/>
+<img width="49%" src="images/blog1.png"/> <img width="49%" src="images/shop1.png"/>
 <br>
 </div>
