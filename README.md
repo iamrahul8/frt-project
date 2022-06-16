@@ -16,7 +16,7 @@ As a result, I created a web application in which I attempted to provide all pro
 https://thankful-ground-0c7824810.1.azurestaticapps.net
 
 
-<h1 align="center"> Tools Used :</h1>
+<h1 align="center"> Tools used :</h1>
 <div align="center">
   
 ![Azure](https://img.shields.io/badge/Azure_Static_Web_Apps-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
